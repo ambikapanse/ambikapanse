@@ -25,6 +25,3 @@
 <a href="https://instagram.com/ambikapanse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ambikapanse" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ambikapanse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ambikapanse" height="30" width="40" /></a>
 </p>
-<h1></h1>
-
-<p align="center"><img src='https://memer-new.vercel.app/' style="height: 400px;"/></p>
